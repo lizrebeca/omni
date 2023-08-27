@@ -1,0 +1,24 @@
+
+
+Paleta de colores en CSS:
+
+/* Color Theme Swatches in Hex */
+.Gato-con-futirsta-con-traje-mecanido-1-hex { color: #BF04A0; }
+.Gato-con-futirsta-con-traje-mecanido-2-hex { color: #F205E2; }
+.Gato-con-futirsta-con-traje-mecanido-3-hex { color: #330C59; }
+.Gato-con-futirsta-con-traje-mecanido-4-hex { color: #1D1440; }
+.Gato-con-futirsta-con-traje-mecanido-5-hex { color: #3DF2F2; }
+
+/* Color Theme Swatches in RGBA */
+.Gato-con-futirsta-con-traje-mecanido-1-rgba { color: rgba(191, 3, 160, 1); }
+.Gato-con-futirsta-con-traje-mecanido-2-rgba { color: rgba(242, 4, 226, 1); }
+.Gato-con-futirsta-con-traje-mecanido-3-rgba { color: rgba(50, 12, 89, 1); }
+.Gato-con-futirsta-con-traje-mecanido-4-rgba { color: rgba(29, 19, 63, 1); }
+.Gato-con-futirsta-con-traje-mecanido-5-rgba { color: rgba(60, 242, 242, 1); }
+
+/* Color Theme Swatches in HSLA */
+.Gato-con-futirsta-con-traje-mecanido-1-hsla { color: hsla(309, 96, 38, 1); }
+.Gato-con-futirsta-con-traje-mecanido-2-hsla { color: hsla(303, 96, 48, 1); }
+.Gato-con-futirsta-con-traje-mecanido-3-hsla { color: hsla(270, 75, 19, 1); }
+.Gato-con-futirsta-con-traje-mecanido-4-hsla { color: hsla(253, 52, 16, 1); }
+.Gato-con-futirsta-con-traje-mecanido-5-hsla { color: hsla(180, 87, 59, 1); }
